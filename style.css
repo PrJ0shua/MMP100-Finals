@@ -1,0 +1,27 @@
+body {background-color:#E1c16e ;}
+h1 {background-color:#C3A65D; color:#8F7942;
+font-family: Times New Roman;
+font-size: 40px;
+text-align: center;
+display: inline;}
+p{color:#8F7942;
+font-family: Times New Roman;
+font-size: 20px;}
+a{color:cyan; 
+font-family: Times New Roman;
+font-size: 20px ;
+text-decoration:none; }
+a:hover {color: #00B093;}
+ul {list-style-type: none;}
+li {background-color:black ;border-color:#8F7942 ;
+	border-width: 2px;
+	border-style:double;
+	text-align:center;
+	margin:2px ;
+	padding:2px ;
+	display: inline;}
+ul {list-style-type: none;text-align: center;}
+img {margin: auto;
+display: block;}
+iframe{margin: auto;
+display: block;}
